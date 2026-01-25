@@ -19,7 +19,7 @@
         </ul>
       ]]></description>
       <enclosure 
-        url="https://osengine.org/api/trial"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.5.7/OS-Engine.dmg"
         sparkle:edSignature="hkJZyB/rSzgt4nAAMBgdtbaVC3tnd5FXI5qXjP0fyZ36bgzSEd0L9GtEP3ScJDkrC+xoPnrlu37qz5oFGjfiCA=="
         length="4087293"
         type="application/octet-stream"/>
