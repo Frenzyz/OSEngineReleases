@@ -6,39 +6,22 @@
     <description>Updates for OS Engine</description>
     <language>en</language>
     
-    <!-- 
-      Add new releases at the top of this list.
-      
-      Required fields for each item:
-      - sparkle:version: The CFBundleVersion (build number)
-      - sparkle:shortVersionString: The CFBundleShortVersionString (marketing version)
-      - enclosure url: Direct download URL for the .dmg or .zip
-      - sparkle:edSignature: EdDSA signature from sign_update tool
-      - length: File size in bytes
-      
-      Optional fields:
-      - sparkle:minimumSystemVersion: Minimum macOS version required
-      - sparkle:releaseNotesLink: URL to HTML release notes
-      - pubDate: Publication date in RFC 822 format
-    -->
-    
     <item>
-      <title>Version 1.5.5</title>
-      <pubDate>Fri, 24 Jan 2026 12:00:00 +0000</pubDate>
+      <title>Version 1.5.6</title>
+      <pubDate>Sat, 24 Jan 2026 22:40:34 -0500</pubDate>
       <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+      <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.5.5</h2>
+        <h2>What's New in 1.5.6</h2>
         <ul>
-          <li>Migrated to Sparkle for automatic updates</li>
-          <li>Silent background updates - installs on next launch</li>
+          <li>Bug fixes and improvements</li>
         </ul>
       ]]></description>
       <enclosure 
         url="https://osengine.org/api/trial"
-        sparkle:edSignature="XIWtGK2r9tSmYiTQ7DL/YNwILNIPV31lIPejaxtEifp84RwLIjsCF3Bdpkdc7bAQ45oTDkS2VQd8Ij0pFsiGDw=="
-        length="3769407"
+        sparkle:edSignature="0pByKsmy5NTPO/iaqMUOniBrrSYGp4/0kGEZNBibJDg/yQmjgEdUA4d3MdoUiTIXXClTGnCqOcWF+qJN//hHBw=="
+        length="3875821"
         type="application/octet-stream"/>
     </item>
     
