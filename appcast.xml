@@ -7,21 +7,21 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.5.6</title>
-      <pubDate>Sat, 24 Jan 2026 22:54:07 -0500</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
+      <title>Version 1.5.7</title>
+      <pubDate>Sun, 25 Jan 2026 14:58:04 -0500</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.5.6</h2>
+        <h2>What's New in 1.5.7</h2>
         <ul>
           <li>Bug fixes and improvements</li>
         </ul>
       ]]></description>
       <enclosure 
         url="https://osengine.org/api/trial"
-        sparkle:edSignature="oace7vmNJBDRAE+npw/LKilZ5iRaA6zMXEfjbb4pNwCFle9+JjuZzE4t0cQDHwIgPM2cbiqyZwNIcx/lrhWnBQ=="
-        length="3875837"
+        sparkle:edSignature="hkJZyB/rSzgt4nAAMBgdtbaVC3tnd5FXI5qXjP0fyZ36bgzSEd0L9GtEP3ScJDkrC+xoPnrlu37qz5oFGjfiCA=="
+        length="4087293"
         type="application/octet-stream"/>
     </item>
     
