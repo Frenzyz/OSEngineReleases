@@ -36,9 +36,9 @@
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.5.5/OSEngine.dmg"
-        sparkle:edSignature="REPLACE_WITH_SIGNATURE"
-        length="REPLACE_WITH_FILE_SIZE"
+        url="https://osengine.org/api/trial"
+        sparkle:edSignature="XIWtGK2r9tSmYiTQ7DL/YNwILNIPV31lIPejaxtEifp84RwLIjsCF3Bdpkdc7bAQ45oTDkS2VQd8Ij0pFsiGDw=="
+        length="3769407"
         type="application/octet-stream"/>
     </item>
     
