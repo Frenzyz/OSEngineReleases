@@ -7,21 +7,21 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.5.7</title>
-      <pubDate>Sun, 25 Jan 2026 14:58:04 -0500</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+      <title>Version 1.5.8</title>
+      <pubDate>Mon, 26 Jan 2026 01:15:17 -0500</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.5.7</h2>
+        <h2>What's New in 1.5.8</h2>
         <ul>
           <li>Bug fixes and improvements</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.5.7/OS-Engine.dmg"
-        sparkle:edSignature="hkJZyB/rSzgt4nAAMBgdtbaVC3tnd5FXI5qXjP0fyZ36bgzSEd0L9GtEP3ScJDkrC+xoPnrlu37qz5oFGjfiCA=="
-        length="4087293"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.5.8/OS-Engine.dmg"
+        sparkle:edSignature="ufVeI1C9yWyPmxqW+9lK0gsmjdMFt6FZ5EXn3OU6b+OpLydwTu2sokWdnaDbL5opN5e6lML6/0XvP2G9U5g0BQ=="
+        length="4099475"
         type="application/octet-stream"/>
     </item>
     
