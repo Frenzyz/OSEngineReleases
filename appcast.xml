@@ -7,21 +7,21 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.5.11</title>
-      <pubDate>Wed, 04 Feb 2026 09:24:49 -0500</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.5.11</sparkle:shortVersionString>
+      <title>Version 1.5.12</title>
+      <pubDate>Tue, 17 Feb 2026 01:26:28 -0500</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.5.12</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.5.11</h2>
+        <h2>What's New in 1.5.12</h2>
         <ul>
           <li>Bug fixes and improvements</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.5.11/OS-Engine.dmg"
-        sparkle:edSignature="wygseIYu/nKGzwz3WzV59YlS8rx0VB7RQOOY4bIna/T3gBbHuAfWq1jxkbCw7AwxDoaXT40RLxf8HOZYBrFEDg=="
-        length="4136370"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.5.12/OS-Engine.dmg"
+        sparkle:edSignature="zYWigUFWvRL9fFARjMbbGyH5X17vUghQ8rhA3WdNH9psUvkZynT25GmDHx+xOugksC22UJDDMTPXFlKRmuOVBg=="
+        length="4137335"
         type="application/octet-stream"/>
     </item>
     
