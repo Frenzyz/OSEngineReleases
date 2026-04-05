@@ -8,7 +8,7 @@
     
     <item>
       <title>Version 1.6.3</title>
-      <pubDate>Sun, 05 Apr 2026 02:15:39 -0400</pubDate>
+      <pubDate>Sun, 05 Apr 2026 02:26:12 -0400</pubDate>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -20,8 +20,8 @@
       ]]></description>
       <enclosure 
         url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.6.3/OS-Engine.dmg"
-        sparkle:edSignature="G4sOrTBd9AtjUYBSdS2P66hvSC6svSoxD2gTfOt0TcfGK0P4sC2lqmBvxIpiWXeaX8E6cxekfk3jhWHeJszdBg=="
-        length="4252200"
+        sparkle:edSignature="Xfudo3UHp4CAgLOJGZiS47o94n0o6F6odJq/znSopiLwU4jbBOrDec629v0eCV5amGGkXXJdeISjDIP5r1yBBA=="
+        length="4251431"
         type="application/octet-stream"/>
     </item>
     
