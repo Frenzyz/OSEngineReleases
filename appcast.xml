@@ -7,23 +7,24 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.7.0</title>
-      <pubDate>Tue, 09 Jun 2026 11:11:54 -0400</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <title>Version 1.7.1</title>
+      <pubDate>Tue, 09 Jun 2026 18:35:27 -0400</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.7.0</h2>
+        <h2>What's New in 1.7.1</h2>
         <ul>
+          <li>Metal-rendered weather effects in the wallpaper editor: animated <strong>rain</strong> and cursor-interactive <strong>snow</strong></li>
+          <li>Add rain or snow from the Layers panel; tune intensity, wind, gravity, and cursor interaction in the inspector</li>
+          <li>Weather effects run on the live desktop wallpaper after Apply — snow reacts to your mouse while keeping the desktop click-through</li>
           <li>Native live Lock Screen &amp; Screen Saver wallpapers on macOS 26 (Apple Silicon)</li>
-          <li>Enable in Preferences → Use Lock Screen &amp; Screensaver, then pick in System Settings → Wallpaper</li>
-          <li>Embedded Wallpaper extension with Developer ID signing and notarization</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.0/OS-Engine.dmg"
-        sparkle:edSignature="zU1E7Pl3dxMOAa/ne3Nl6RTMZzwJiLumo21NuSVuRL5TCn+k3hNZVLvGAjFgnLqCLDN/vOAqdyG4kBwempkkAg=="
-        length="4719579"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.1/OS-Engine.dmg"
+        sparkle:edSignature="GGOX4gINCxFO0opdYYyeXoDUe+HnY9ASNFH1R7paPkv6XXD0ZacJdL4oTIqGFFmXih5qEefAGs4MP+WCPjfDAA=="
+        length="4677446"
         type="application/octet-stream"/>
     </item>
     
