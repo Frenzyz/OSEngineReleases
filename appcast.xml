@@ -7,24 +7,25 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.7.1</title>
-      <pubDate>Tue, 09 Jun 2026 18:35:27 -0400</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+      <title>Version 1.7.2</title>
+      <pubDate>Wed, 17 Jun 2026 23:50:13 -0400</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.7.1</h2>
+        <h2>What's New in 1.7.2</h2>
         <ul>
-          <li>Metal-rendered weather effects in the wallpaper editor: animated <strong>rain</strong> and cursor-interactive <strong>snow</strong></li>
-          <li>Add rain or snow from the Layers panel; tune intensity, wind, gravity, and cursor interaction in the inspector</li>
-          <li>Weather effects run on the live desktop wallpaper after Apply — snow reacts to your mouse while keeping the desktop click-through</li>
-          <li>Native live Lock Screen &amp; Screen Saver wallpapers on macOS 26 (Apple Silicon)</li>
+          <li>Lock Screen: baked weather-effects video for static wallpapers with rain/snow (desktop keeps live Metal FX)</li>
+          <li>Centralized wallpaper playback state (<code>WallpaperPlaybackState</code>, <code>WallpaperApplyService</code>)</li>
+          <li>Fixed static+weather versioning save/select/restore</li>
+          <li>Fixed Metal offline renderer crash (compute/render encoder ordering)</li>
+          <li>Fixed SwiftFormat build phase scoping (was scanning entire repo including SPM checkouts)</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.1/OS-Engine.dmg"
-        sparkle:edSignature="GGOX4gINCxFO0opdYYyeXoDUe+HnY9ASNFH1R7paPkv6XXD0ZacJdL4oTIqGFFmXih5qEefAGs4MP+WCPjfDAA=="
-        length="4677446"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.2/OS-Engine.dmg"
+        sparkle:edSignature="UFal7FpvJQ16ptnZ0sKOE2uVmIr2C2TohPtH4wa9NCntkGXuYAGJGn0orqZ/+2Cv06zbeyiXMOHoIbl9vaoYBA=="
+        length="4731290"
         type="application/octet-stream"/>
     </item>
     
