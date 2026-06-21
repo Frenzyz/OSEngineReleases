@@ -7,23 +7,22 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.7.4</title>
-      <pubDate>Sun, 21 Jun 2026 11:05:52 -0400</pubDate>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+      <title>Version 1.7.5</title>
+      <pubDate>Sun, 21 Jun 2026 17:02:09 -0400</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.7.4</h2>
+        <h2>What's New in 1.7.5</h2>
         <ul>
-          <li>Fixed Preferences opening as a collapsed sheet on the activation screen — now opens a full resizable Settings window</li>
-          <li>License activation shows immediate feedback (spinner, success, or error) instead of failing silently</li>
-          <li>Keyforge API errors are surfaced to the user; license keys are trimmed before activation</li>
+          <li>Lock Screen is now explicit: use "Set as Lock Screen" in a wallpaper's detail view instead of syncing automatically when you change desktop wallpapers</li>
+          <li>Desktop and Lock Screen wallpapers are independent — set each one on its own</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.4/OS-Engine.dmg"
-        sparkle:edSignature="ceDpUDlmZecx16Ipgw/1yhp4Pb1qJUGuGU62nL2JvYAxZluXjLM7IuhMCajT1/8t4pVuxGoXmayvBsjPn+OxAw=="
-        length="4762993"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.5/OS-Engine.dmg"
+        sparkle:edSignature="ZXSjsfiyYE15LNir+Gfz5dnDD6bfKNmP2iQoAzINSsxxJHp+APYzsjyqziymufEmZeMavwB7nseGAWqdNdiSDA=="
+        length="4773238"
         type="application/octet-stream"/>
     </item>
     
