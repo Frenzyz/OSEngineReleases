@@ -7,25 +7,23 @@
     <language>en</language>
     
     <item>
-      <title>Version 1.7.3</title>
-      <pubDate>Thu, 18 Jun 2026 18:06:51 -0400</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+      <title>Version 1.7.4</title>
+      <pubDate>Sun, 21 Jun 2026 11:05:52 -0400</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>What's New in 1.7.3</h2>
+        <h2>What's New in 1.7.4</h2>
         <ul>
-          <li>Fixed weather wallpaper apply lag from the library detail sheet (same fast path as the editor)</li>
-          <li>Reuses cached Ken Burns loops and VersionLoops instead of regenerating on every apply</li>
-          <li>Instant static placeholder while preparing weather wallpapers; no black flash on switch</li>
-          <li>Debounced screen-parameter feedback that blocked apply for several seconds</li>
-          <li>Validated stale composite video paths; unified detail apply through WallpaperApplyService</li>
+          <li>Fixed Preferences opening as a collapsed sheet on the activation screen — now opens a full resizable Settings window</li>
+          <li>License activation shows immediate feedback (spinner, success, or error) instead of failing silently</li>
+          <li>Keyforge API errors are surfaced to the user; license keys are trimmed before activation</li>
         </ul>
       ]]></description>
       <enclosure 
-        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.3/OS-Engine.dmg"
-        sparkle:edSignature="7z7v2SG+Xs6sUXMvsUSBiY8BZ2+QEy4auvZsyLdmL6qMTjGNtKUx+9pjcMv6xypTo/Wh9DKvRWWVHo/rZrV2DA=="
-        length="4742894"
+        url="https://github.com/Frenzyz/OSEngineReleases/releases/download/v1.7.4/OS-Engine.dmg"
+        sparkle:edSignature="ceDpUDlmZecx16Ipgw/1yhp4Pb1qJUGuGU62nL2JvYAxZluXjLM7IuhMCajT1/8t4pVuxGoXmayvBsjPn+OxAw=="
+        length="4762993"
         type="application/octet-stream"/>
     </item>
     
